@@ -16,4 +16,5 @@ Each case study is written in a **PDF-style format** and follows a structured, r
 .
 ├── README.md
 ├── tesla-vs-uber-robo-taxi-2030.pdf
+├── Starlink-vs-Amazon-LEO-vs-Indian-Telcos.pdf
 └── (more-case-studies-coming-soon...)
